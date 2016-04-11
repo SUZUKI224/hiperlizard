@@ -14,7 +14,7 @@ return {
 	lang = 'en',
 	-- If you change this, make sure you also modify launch-tg.sh.
 	cli_port = 4567,
-	admin = 00000000,
+	admin = 96886850,
 	admin_name = 'John Smith',
 	log_chat = nil,
 	about_text = [[
@@ -58,7 +58,7 @@ Send /help to get started.
 	},
 	moderation = {
 		admins = {
-			['00000000'] = 'You'
+			['96886850'] = 'You'
 		},
 		errors = {
 			antisquig = 'This group is English-only.',
@@ -66,7 +66,7 @@ Send /help to get started.
 			not_mod = 'This command must be run by a moderator.',
 			not_admin = 'This command must be run by an administrator.',
 		},
-		admin_group = -00000000,
+		admin_group = -96886850,
 		realm_name = 'My Realm',
 		antisquig = false
 	},
